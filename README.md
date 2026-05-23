@@ -1,6 +1,6 @@
 # 👋 Hello Worldwide Tactical Brands & Procurement Officers! 
 
-Welcome to the official GitHub profile of **Guangzhou LUPU Travel Product Co., Ltd.**. We are a premier manufacturer and exporter specializing in heavy-duty tactical gear, military backpacks, and military-grade combat gloves based in Guangzhou, China.
+Welcome to the official GitHub profile of **Guangzhou LUPU Travel Product Co., Ltd.**. We are a premier manufacturer and exporter specializing in heavy-duty tactical gear, military backpacks, Bulletproof Vest, Tactical Uniform, Tactical Helmets, Combat Boots, Tactical Gloves and Tactical Belts based in Guangzhou, China.
 
 With **over 20 years of specialized manufacturing experience**, we serve international brand owners, wholesalers, and defense equipment distributors globally.
 
@@ -11,7 +11,7 @@ With **over 20 years of specialized manufacturing experience**, we serve interna
 Unlike trading companies, we manage the entire supply chain with rigorous production and quality control standards:
 
 *   **Premium Material Expertise:** Specialized in high-tensile materials including **500D/1000D Nylon**, **Genuine Cordura®**, and lightweight **900D Oxford Fabric**.
-*   **Heavy-Duty Construction:** All MOLLE webbings, stress points, and load-bearing straps utilize **heavy-duty reinforced sewn construction** (no laser-cut failure points for our heavy-duty lines) to ensure military-grade durability.
+*   **Heavy-Duty Construction:** All MOLLE webbings, stress points, and load-bearing straps utilize **heavy-duty reinforced sewn construction** to ensure military-grade durability.
 *   **Compliance & Trust:** Fully certified with **ISO 9001** international auditing standards. 
 
 ---
