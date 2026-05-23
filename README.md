@@ -12,7 +12,7 @@ Unlike trading companies, we manage the entire supply chain with rigorous produc
 
 *   **Premium Material Expertise:** Specialized in high-tensile materials including **500D/1000D Nylon**, **Genuine Cordura®**, and lightweight **900D Oxford Fabric**.
 *   **Heavy-Duty Construction:** All MOLLE webbings, stress points, and load-bearing straps utilize **heavy-duty reinforced sewn construction** (no laser-cut failure points for our heavy-duty lines) to ensure military-grade durability.
-*   **Compliance & Trust:** Fully certified with **ISO 9001** and **BSCI** international auditing standards. 
+*   **Compliance & Trust:** Fully certified with **ISO 9001** international auditing standards. 
 
 ---
 
