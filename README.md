@@ -1,6 +1,6 @@
 # 👋 Hello Worldwide Tactical Brands & Procurement Officers! 
 
-Welcome to the official GitHub profile of **Guangzhou LUPU Travel Product Co., Ltd.** (Gracedon Outdoor). We are a premier manufacturer and exporter specializing in heavy-duty tactical gear, military backpacks, and military-grade combat gloves based in Guangzhou, China.
+Welcome to the official GitHub profile of **Guangzhou LUPU Travel Product Co., Ltd.**. We are a premier manufacturer and exporter specializing in heavy-duty tactical gear, military backpacks, and military-grade combat gloves based in Guangzhou, China.
 
 With **over 20-25 years of specialized manufacturing experience**, we serve international brand owners, wholesalers, and defense equipment distributors globally.
 
