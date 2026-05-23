@@ -40,5 +40,5 @@ Skip the middleman and maximize your margins by sourcing directly from our Guang
 | Material Type | Denier / Coating | Best Used For |
 | :--- | :--- | :--- |
 | **Cordura / Premium Nylon** | 500D - 1000D / PU Coated | Military Backpacks, Tactical Vests |
-| **Oxford Fabric** | 900D / Water-Resistant | Fitness Tactical Bags (e.g., LP1231 45L), Range Bags |
+| **Oxford Fabric** | 900D / Water-Resistant | Fitness Tactical Bags (e.g., LP1321 45L), Range Bags |
 | **Synthetic Leather & Carbon** | Reinforced Palms / Hard Knuckle | Heavy-duty Tactical Gloves, Impact Gloves |
